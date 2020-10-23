@@ -1,2 +1,2 @@
 config:
-  info: dev
+  info: dev,version=0.0.1
